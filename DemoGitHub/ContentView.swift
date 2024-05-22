@@ -13,7 +13,7 @@ struct ContentView: View {
             Text("Hello GitHub")
                 .font(.title).bold()
             
-            Image(systemName: "network")
+            Image(systemName: "sun.max")
                 .font(.title).bold()
                 .foregroundColor(.blue)
         }
